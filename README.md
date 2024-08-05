@@ -2,4 +2,4 @@
 
 Tente apagar todas as lampadas
 
-[Aqui](https://alanctnk.github.io/sample/)
+[Aqui](https://alant2031.github.io/sample/)
